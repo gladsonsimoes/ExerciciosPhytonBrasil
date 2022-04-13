@@ -1,10 +1,6 @@
 # ExerciciosPhytonBrasil
 
-
-
-LIsta de Exercicios Phyton: 
+LIsta de Exercicios PhytonBrasil: 
  
 
 https://wiki.python.org.br/ListaDeExercicios
-
-
