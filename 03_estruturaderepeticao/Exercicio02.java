@@ -17,7 +17,7 @@ public class Exercicio02 {
         boolean nomeEsenhaIguais = Objects.equals(nomeDeUsuario, senhaDoUsuario);
         if (nomeEsenhaIguais){
             System.err.println("!Sua senha não pode ser igual ao nome de Usuário , Refaça o cadastro!");
-            main(args);
+            main(args); //usado para repetir o metodo main!
         } else {
             System.out.println("Bem-Vindo...");
         }
